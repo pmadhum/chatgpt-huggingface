@@ -1,4 +1,5 @@
 transformers[latest]
 tensorflow[latest]
+tensorflow[and-cuda]
 fastapi[all]
 uvicorn[standard]
