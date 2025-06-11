@@ -1,6 +1,6 @@
 transformers[latest]
 tensorflow[latest]
 tensorflow[and-cuda]
-keras[latest]
+tf-keras[latest]
 fastapi[all]
 uvicorn[standard]
